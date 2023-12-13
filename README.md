@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> Kojewihou </h1>
+<h1 style="color: #44AEFB;"> E. H. von Rein </h1>
 
 ![github_cover_banner](/images/Banner.png)
 
